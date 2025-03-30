@@ -1,5 +1,5 @@
 [[headers]]
-  for = "/collections"
+  for = "/*"
   [headers.values]
     Access-Control-Allow-Origin = "http://localhost:3000"
     Access-Control-Allow-Methods = "GET, POST, OPTIONS"
